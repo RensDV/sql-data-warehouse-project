@@ -108,4 +108,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Rens De Vent**. I’m an ex-BCG consultant and certified MS Azure data engineer. My goal is to share data warehouse best practices with the community!
+Hi there! I'm **Rens De Vent**. I’m an ex-BCG consultant and certified MS Azure data engineer. My goal is to share data warehouse best practices on tech with the community!
